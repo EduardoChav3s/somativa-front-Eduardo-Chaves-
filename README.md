@@ -1,5 +1,5 @@
 # somativa-front(Eduardo-Chaves)
-# 💻 Título do Seu Projeto (Ex: Simulador XPTO)
+# 💻 GeekStore - O seu portal nerd
 
 Breve descrição do que o seu projeto faz. (Ex: Este é um projeto desenvolvido para a avaliação de Front-End, focado em criar interatividade para uma loja/app de [Tema]).
 
@@ -24,5 +24,5 @@ O projeto foi organizado seguindo boas práticas de mercado:
 * **Injeção de Conteúdo:** Adição de novos itens na tela utilizando manipulação de DOM.
 
 ## 👨‍💻 Autor
-[Seu Nome Completo]
-[Seu LinkedIn ou GitHub]
+[Eduardo Henrique de Jesus Chaves]
+[EduardoChav3s]
