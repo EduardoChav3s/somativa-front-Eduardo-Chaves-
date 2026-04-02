@@ -1,7 +1,6 @@
-# somativa-front(Eduardo-Chaves)
 # 💻 GeekStore - O seu portal nerd
 
-Breve descrição do que o seu projeto faz. (Ex: Este é um projeto desenvolvido para a avaliação de Front-End, focado em criar interatividade para uma loja/app de [Tema]).
+O projeto GeekStore é para testar as habilidades de desenvolvimento em Front-End e demonstrar seus conhecimentos dentro da área.
 
 ## 🛠️ Tecnologias Utilizadas
 * HTML5 (Semântica e Acessibilidade)
